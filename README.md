@@ -25,4 +25,8 @@
 
 ### footer
 
+### login
+
+### join the membership
+
 
