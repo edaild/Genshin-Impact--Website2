@@ -12,7 +12,7 @@
 # execution result / 실행결과
 
 ### website start title
-![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/de0484d1-5021-4d52-814d-4a3c5d9a100c)
+<p>현재 개발중</p>
 
 ### main page
 ![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/bb5ccb3b-d3de-4f82-ad28-367f79c71cb9)
