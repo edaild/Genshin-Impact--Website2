@@ -11,24 +11,29 @@
 # execution result / 실행결과
 
 ### website start title
-![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/81f995f5-f250-4ae8-bc14-a3ff906bd120)
-### main page
-![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/e4391ea0-a333-461d-9736-fb809e8d2bf2)
-### main menu
-![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/6f11e1b6-9d32-4599-8c8f-cb4d27e32761)
-### bodywrop
-![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/25f0b383-934e-4b40-b071-42ab343f14e8)
-### content
-![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/14e3e0e3-882e-4f8c-bb13-921108caf343)
-![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/b32a7d30-9b00-44f2-b52f-23bc2f796e3c)
+![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/de0484d1-5021-4d52-814d-4a3c5d9a100c)
 
+### main page
+![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/bb5ccb3b-d3de-4f82-ad28-367f79c71cb9)
+
+### main menu
+![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/a59d1e4a-a432-4460-9975-fc92cee26e6d)
+
+### bodywrop
+![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/84f209b8-463e-434c-9da9-b248ac825282)
+
+### content
+![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/ae788508-f438-4a23-9b45-82676d5c48ed)
+![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/db175376-ac6d-468c-be32-da6ca9629be6)
 
 ### footer
+<p>현재 개발중</p>
 
 ### login
-![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/0d3e1834-4d3f-45b9-afcf-2bd7a3204318)
+![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/7d4783ab-6cc7-4f0d-b996-42a47e99c4f6)
 
 ### join the membership
-![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/78209566-013c-4403-b7d1-ff011ec81150)
+![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/6f9b2991-d5ad-432c-8a42-759730881e9b)
+
 
 
