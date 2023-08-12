@@ -12,7 +12,7 @@
 # execution result / 실행결과
 
 ### website start title
-<p>현재 개발중</p>
+![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/05c33b7f-da90-4e3e-8a09-11750fae6552)
 
 ### main page
 ![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/bb5ccb3b-d3de-4f82-ad28-367f79c71cb9)
@@ -24,11 +24,11 @@
 ![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/84f209b8-463e-434c-9da9-b248ac825282)
 
 ### content
-![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/ae788508-f438-4a23-9b45-82676d5c48ed)
-![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/db175376-ac6d-468c-be32-da6ca9629be6)
+![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/d8e1aa70-13d8-49c0-83b3-db3ac3828d28)
+![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/ecb7b0b6-ee60-4fd4-a93b-7677ec7a2c26)
 
 ### footer
-<p>현재 개발중</p>
+![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/26cd9e3c-ff02-4226-bf01-404fd9e6579d)
 
 ### login
 ![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/7d4783ab-6cc7-4f0d-b996-42a47e99c4f6)
