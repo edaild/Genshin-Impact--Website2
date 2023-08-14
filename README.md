@@ -25,7 +25,11 @@
 
 ### content
 ![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/d8e1aa70-13d8-49c0-83b3-db3ac3828d28)
+### 1
 ![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/ecb7b0b6-ee60-4fd4-a93b-7677ec7a2c26)
+### 2
+![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/c00abc7c-68a6-4895-9ad4-2a6844959d40)
+
 
 ### footer
 ![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/26cd9e3c-ff02-4226-bf01-404fd9e6579d)
