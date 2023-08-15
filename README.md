@@ -8,7 +8,7 @@
 
 
 ### Background music / 배경 음악
- Fontaine :Genshin Impact<br>
+ Fontaine : Genshin Impact<br>
  Link: https://youtu.be/LuJbYriW2A4
 
 <h3>Upload Guide / 업로드 안내</h3>
