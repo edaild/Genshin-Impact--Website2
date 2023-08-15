@@ -6,6 +6,11 @@
 <p>Please use Aljib when decompressing. / 압축 해제시 알집을 이용해 주세요.</p>
 <p>This website was developed based on the Chrome browser. When running the website, please use the Chrome browser. / 본 웹사이트는 Chrome 브라우저 기반으로 개발했습니다. 웹사이트 실행 시 Chrome 브라우저로 실행해 주시기 바랍니다.</p>
 
+
+### Background music / 배경 음악
+ Fontaine :Genshin Impact<br>
+ Link: https://youtu.be/LuJbYriW2A4
+
 <h3>Upload Guide / 업로드 안내</h3>
 <p> It will be uploaded later due to capacity adjustment. Some works may change upon upload. / 용량 조절 관계로 추후 업로드될 예정입니다. 업로드 시 일부 작품이 변경될 수도 있습니다.</p>
 
