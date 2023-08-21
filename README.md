@@ -34,7 +34,8 @@
 ![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/ecb7b0b6-ee60-4fd4-a93b-7677ec7a2c26)
 ### Planning 2
 ![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/c00abc7c-68a6-4895-9ad4-2a6844959d40)
-
+### Planning 3
+![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/2efd10ca-3647-4227-9e65-a3f263a95378)
 
 ### footer
 ![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/26cd9e3c-ff02-4226-bf01-404fd9e6579d)
