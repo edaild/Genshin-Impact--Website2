@@ -3,7 +3,7 @@
 <h3>caution / 주의 사항</h3>
 <p> In this portfolio, the background music does not play automatically in the Chrome environment / 본 포트폴리오는 Chrome 환경에서는 배경음악이 자동 재생되지 않습니다.</p>
 <P> When executing, please run index.html first / 실행 시 index·html을 가장 먼저 실행해 주세요.</P>
-<p>Please use Aljib when decompressing. / 압축 해제시 알집을 이용해 주세요.</p>
+<p>The decompression method will be disclosed on the day of upload. / 압축 해제 방식은 업로드 당일 공개합니다.</p>
 <p>This website was developed based on the Chrome browser. When running the website, please use the Chrome browser. / 본 웹사이트는 Chrome 브라우저 기반으로 개발했습니다. 웹사이트 실행 시 Chrome 브라우저로 실행해 주시기 바랍니다.</p>
 
 
@@ -29,13 +29,16 @@
 ![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/84f209b8-463e-434c-9da9-b248ac825282)
 
 ### content
-![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/d8e1aa70-13d8-49c0-83b3-db3ac3828d28)
-### Planning 1
-![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/ecb7b0b6-ee60-4fd4-a93b-7677ec7a2c26)
-### Planning 2
-![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/c00abc7c-68a6-4895-9ad4-2a6844959d40)
-### Planning 3
 ![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/2efd10ca-3647-4227-9e65-a3f263a95378)
+![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/264c82da-25cf-41e6-a9ee-3d2fe6978ba1)
+![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/b3cf0a05-8e02-432d-babb-62420b24edbb)
+![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/6828d9b5-b9a8-415a-9fc0-6ec9d78e913c)
+
+
+
+
+
+
 
 ### footer
 ![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/26cd9e3c-ff02-4226-bf01-404fd9e6579d)
