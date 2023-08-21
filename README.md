@@ -12,7 +12,7 @@
  Link: https://youtu.be/LuJbYriW2A4
 
 <h3>Upload Guide / 업로드 안내</h3>
-<p> It will be uploaded later due to capacity adjustment. Some works may change upon upload. / 용량 조절 관계로 추후 업로드될 예정입니다. 업로드 시 일부 작품이 변경될 수도 있습니다.</p>
+<p> It will be uploaded on August 24 due to capacity adjustment. Some works may change upon upload. / 용량 조절 관계로 8월24일 업로드될 예정입니다. 업로드 시 일부 작품이 변경될 수도 있습니다.</p>
 
 # execution result / 실행결과
 
